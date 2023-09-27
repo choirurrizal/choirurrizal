@@ -1,12 +1,15 @@
 ### GitHub/choirurrizal 👋
 
-🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer
+🔐 Security Analyst | 📝 Writer | 🌐 Cybersecurity Enthusiast
 
-🌱 I'm passionate about creating web applications that make a difference
+📬 Email: [rizal@n45ht.or.id](mailto:rizal@n45ht.or.id)
+🐦 Twitter: [@rizalchoirur_](https://twitter.com/rizalchoirur_)
+📖 Blog: [n45ht.or.id/blog](https://n45ht.or.id/blog)
+✍️ Articles: [1337.or.id](https://1337.or.id) | [wiki.1337.or.id](https://wiki.1337.or.id)
 
-💡 Exploring the intersections of technology, design, and creativity
+👨‍💻 I'm passionate about cybersecurity and actively share my insights, research, and findings. Check out my articles and contributions to the security community on my blog and various platforms. Feel free to reach out—I love connecting with fellow enthusiasts and professionals!
 
-📫 Let's connect! Feel free to reach out if you want to collaborate or just chat about tech
+🔒 Stay secure, and happy coding!
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choirurrizal&show_icons=true)
