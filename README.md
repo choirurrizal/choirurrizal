@@ -12,8 +12,6 @@
 
 👨‍💻 I'm passionate about cybersecurity and actively share my insights, research, and findings. Check out my articles and contributions to the security community on my blog and various platforms. Feel free to reach out—I love connecting with fellow enthusiasts and professionals!
 
-🔒 Stay secure, and happy coding!
-
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choirurrizal&show_icons=true)
 -->
